@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I am Kostiantyn Polishchuk
 
-<!--
-**Kostya088/Kostya088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Trainee Frontend Developer  
+**HTML, CSS, JavaScript, React.js**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend Developer with hands-on experience in HTML, CSS, and JavaScript, currently expanding expertise in React and TypeScript. Proven leadership skills as Team Lead and Scrum Master on two educational projects, including task coordination and teammate support. Dedicated to writing clean, maintainable code. Reliable, supportive collaborator committed to collective success and continuous professional growth.
+
+---
+
+## 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+---
+
+## 🚀 Featured Projects
+
+### 🐾 Paw Hut
+🔗 **GitHub repository:** https://github.com/Kostya088/paw-hut  
+📝 **Project description:** animal shelter website  
+🧰 **Tech stack:** HTML5, CSS3, JavaScript (ES6+), REST API, AJAX  
+
+👤 **Role:** Scrum Master / Developer  
+Organized the project’s Agile workflow by architecting a detailed Trello system. Developed granular task specifications and checklists, managed teammate assignments, and tracked progress through a rigorous pipeline — including a dedicated Code Review stage — to ensure high-quality, on-time delivery. As a developer, engineered a data-driven reviews section utilizing Axios for asynchronous API fetching. Developed a dynamic gallery and rating system using the Swiper and raty.js libraries to render backend data into a responsive, user-friendly interface.
+
+---
+
+### ☕ Coffe Joy
+🔗 **GitHub repository:** https://github.com/Kostya088/coffee-joy  
+📝 **Project description:** adaptive web site for the coffe shop  
+🧰 **Tech stack:** HTML5, CSS3, JavaScript  
+
+👤 **Role:** Team Lead, Frontend Developer  
+Led and coordinated the work of the development team, monitored daily progress. Wrote and maintained frontend code using HTML and CSS, and implemented basic interactivity with JavaScript (modal windows). Conducted regular code reviews to ensure code quality and consistency. Assisted team members with problem-solving and ensured project requirements and deadlines were met through effective team management and communication.
+
+---
+
+## 🌍 Languages
+- **English** — advanced  
+- **Ukrainian** — native  
+- **Italian** — elementary  
+
+---
+
+## 📫 How to reach me
+- 💼 **LinkedIn:** https://www.linkedin.com/in/kostiantyn-polishchuk1/  
+- 📧 **Email:** kostya.polishchuk@gmail.com  
+- 💬 **Telegram:** https://t.me/polishchuk808
