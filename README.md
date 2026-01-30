@@ -19,7 +19,7 @@ Frontend Developer with hands-on experience in HTML, CSS, and JavaScript, curren
 
 ## 🚀 Featured Projects
 
-### 🐾 Paw Hut
+### 🐾 [Paw Hut](https://kostya088.github.io/paw-hut/)
 🔗 **GitHub repository:** https://github.com/Kostya088/paw-hut  
 📝 **Project description:** animal shelter website  
 🧰 **Tech stack:** HTML5, CSS3, JavaScript (ES6+), REST API, AJAX  
@@ -29,7 +29,7 @@ Organized the project’s Agile workflow by architecting a detailed Trello syste
 
 ---
 
-### ☕ Coffe Joy
+### ☕ [Coffe Joy](https://kostya088.github.io/coffee-joy/)
 🔗 **GitHub repository:** https://github.com/Kostya088/coffee-joy  
 📝 **Project description:** adaptive web site for the coffe shop  
 🧰 **Tech stack:** HTML5, CSS3, JavaScript  
