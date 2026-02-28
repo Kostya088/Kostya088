@@ -4,7 +4,7 @@
 
 ---
 
-Frontend Developer with hands-on experience in HTML, CSS, and JavaScript, currently expanding expertise in React and TypeScript. Proven leadership skills as Team Lead and Scrum Master on two educational projects, including task coordination and teammate support. Dedicated to writing clean, maintainable code. Reliable, supportive collaborator committed to collective success and continuous professional growth.
+Frontend Developer with hands-on experience in HTML, CSS, and JavaScript, currently expanding expertise in React, TypeScript and Next.js. Proven leadership skills as Team Lead and Scrum Master on two educational projects, including task coordination and teammate support. Dedicated to writing clean, maintainable code. Reliable, supportive collaborator committed to collective success and continuous professional growth.
 
 ---
 
