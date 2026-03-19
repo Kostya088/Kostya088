@@ -21,7 +21,7 @@ Frontend Developer with strong proficiency in HTML, CSS, and JavaScript, skilled
 
 ### 📝 [NoteHub](https://note-hub-nu-five.vercel.app/)
 🔗 **GitHub repository:** https://github.com/Kostya088/note-hub  
-📝 **Project description:** NoteHub is a note management web application for creating, browsing, filtering, previewing, and organizing personal notes in a clean authenticated workspace
+📝 **Project description:** NoteHub is a note management web application for creating, browsing, filtering, previewing, and organizing personal notes in a clean authenticated workspace                                                                             
 🧰 **Tech stack:** Next.js, TypeScript, React.js  
 
 👤 **Role:** 
