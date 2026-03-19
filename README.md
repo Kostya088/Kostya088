@@ -29,13 +29,13 @@ Organized the project’s Agile workflow by architecting a detailed Trello syste
 
 ---
 
-### ☕ [Coffe Joy](https://kostya088.github.io/coffee-joy/)
-🔗 **GitHub repository:** https://github.com/Kostya088/coffee-joy  
-📝 **Project description:** adaptive web site for the coffe shop  
-🧰 **Tech stack:** HTML5, CSS3, JavaScript  
+### 📝 [NoteHub](https://note-hub-nu-five.vercel.app/)
+🔗 **GitHub repository:** https://github.com/Kostya088/note-hub  
+📝 **Project description:** NoteHub is a note management web application for creating, browsing, filtering, previewing, and organizing personal notes in a clean authenticated workspace. 
+🧰 **Tech stack:** Next.js, TypeScript, React.js  
 
 👤 **Role:** Team Lead, Frontend Developer  
-Led and coordinated the work of the development team, monitored daily progress. Wrote and maintained frontend code using HTML and CSS, and implemented basic interactivity with JavaScript (modal windows). Conducted regular code reviews to ensure code quality and consistency. Assisted team members with problem-solving and ensured project requirements and deadlines were met through effective team management and communication.
+Frontend Developer. Implemented the full NoteHub functionality with Next.js, React, and TypeScript, including authentication, protected routes, notes CRUD flows, search, tag filtering, pagination, modal previews, and profile management. Integrated API communication and state/data handling, including global state management with Zustand and server-state caching/synchronization with TanStack React Query.
 
 ---
 
