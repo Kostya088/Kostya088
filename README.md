@@ -1,6 +1,6 @@
 # 👋 Hi, I am Kostiantyn Polishchuk
 
-## 💻 Trainee Frontend Developer | JavaScript(ES6+) | React.js
+## 💻 Trainee Frontend Developer | JavaScript(ES6+) | React.js | Next.js
 
 ---
 
