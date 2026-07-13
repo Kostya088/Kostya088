@@ -27,7 +27,7 @@ Fullstack Developer proficient in HTML, CSS, and JavaScript, skilled in building
 
 ## 🚀 Featured Projects
 
-### 🤰 [Leleka](https://github.com/Kostya088/stork-frontend)
+### 🤰 [Leleka](https://stork-frontend.vercel.app/)
 🔗 **GitHub repository:** https://github.com/Kostya088/stork-frontend  
 📝 **Project description:** Leleka is a modern web application designed to support expectant mothers throughout their pregnancy journey.  
 🧰 **Tech stack:** Next.js, TypeScript, React.js, Node.js, Express.js, MongoDB, Google OAuth, REST API  
