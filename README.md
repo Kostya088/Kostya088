@@ -1,24 +1,41 @@
 # 👋 Hi, I am Kostiantyn Polishchuk
 
-## 💻 Trainee Fullstack Developer | JavaScript(ES6+) | React.js | Next.js
+## 💻 Trainee Fullstack Developer | React.js | Next.js | Node.js
 
 ---
 
 Fullstack Developer proficient in HTML, CSS, and JavaScript, skilled in building data-driven applications with React, TypeScript, and Next.js, as well as developing backend web servers using Node.js and Express.js. Proven leadership skills as Team Lead on educational projects, including task coordination and teammate support. Dedicated to writing clean, maintainable code. Reliable, supportive collaborator committed to collective success and continuous professional growth.
 
-
 ---
 
 ## 🛠️ Tech Stack
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 ---
 
 ## 🚀 Featured Projects
+
+### 🤰 [Leleka](https://github.com/Kostya088/stork-frontend)
+🔗 **GitHub repository:** https://github.com/Kostya088/stork-frontend  
+📝 **Project description:** Leleka is a modern web application designed to support expectant mothers throughout their pregnancy journey.  
+🧰 **Tech stack:** Next.js, TypeScript, React.js, Node.js, Express.js, MongoDB, Google OAuth, REST API  
+
+👤 **Role:** 
+Team Lead & Fullstack Developer. Managed task assignment and organized work for a team of developers while setting up the project foundation by initializing both frontend and backend repositories. Built a secure Backend-for-Frontend (BFF) architecture to connect the app with MongoDB and integrated Google OAuth for user authentication. Focused heavily on frontend issues, reviewing teammates' code to improve UI styling, fix bugs.
+
+---
 
 ### 📝 [NoteHub](https://note-hub-nu-five.vercel.app/)
 🔗 **GitHub repository:** https://github.com/Kostya088/note-hub  
