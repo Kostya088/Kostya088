@@ -35,7 +35,7 @@ Fullstack Developer proficient in HTML, CSS, and JavaScript, skilled in building
 ### 🗂️ [LingoCards](https://lingo-cards-eight.vercel.app/)
 
 🔗 **GitHub repository:** https://github.com/Kostya088/lingo-cards  
-📝 **Project description:** An offline-first spaced repetition learning platform that uses a custom scheduling algorithm and seamlessly syncs local progress to the database upon network reconnection.
+📝 **Project description:** An offline-first spaced repetition learning platform that uses a custom scheduling algorithm and seamlessly syncs local progress to the database upon network reconnection.              
 🧰 **Tech stack:** React.js, TypeScript, Vite, Tailwind CSS, Dexie.js, Supabase, Vitest
 
 👤 **Role:**
