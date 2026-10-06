@@ -54,17 +54,6 @@ Team Lead & Fullstack Developer. Managed task assignment and organized work for 
 
 ---
 
-### 📝 [NoteHub](https://note-hub-nu-five.vercel.app/)
-
-🔗 **GitHub repository:** https://github.com/Kostya088/note-hub  
-📝 **Project description:** NoteHub is a note management web application for creating, browsing, filtering, previewing, and organizing personal notes in a clean authenticated workspace  
-🧰 **Tech stack:** Next.js, TypeScript, React.js
-
-👤 **Role:**
-Frontend Developer. Implemented the full NoteHub functionality with Next.js, React, and TypeScript, including authentication, protected routes, notes CRUD flows, search, tag filtering, pagination, modal previews, and profile management. Integrated API communication and state/data handling, including global state management with Zustand and server-state caching/synchronization with TanStack React Query.
-
----
-
 ### 🐾 [Paw Hut](https://kostya088.github.io/paw-hut/)
 
 🔗 **GitHub repository:** https://github.com/Kostya088/paw-hut  
