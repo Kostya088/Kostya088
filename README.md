@@ -4,7 +4,7 @@
 
 ---
 
-Fullstack Developer proficient in HTML, CSS, and JavaScript, skilled in building data-driven applications with React, TypeScript, and Next.js, as well as developing backend web servers using Node.js and Express.js. Proven leadership skills as Team Lead on educational projects, including task coordination and teammate support. Dedicated to writing clean, maintainable code. Reliable, supportive collaborator committed to collective success and continuous professional growth.
+Fullstack Developer proficient in HTML, CSS, and JavaScript, skilled in building data-driven applications with React, TypeScript, and Next.js, as well as developing backend web servers with Node.js and Express.js. Proven leadership skills as Team Lead on educational projects, including task coordination and teammate support. Dedicated to writing clean, maintainable code. Reliable, supportive collaborator committed to collective success and continuous professional growth.
 
 ---
 
